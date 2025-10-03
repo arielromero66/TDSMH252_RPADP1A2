@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TDSMH252_RPADP1A1</string>
+    <string name="titulo">Calculadora</string>
+    <string name="TxtIngNum1">Inserta 1er Valor</string>
+    <string name="TxtIngNum2">Inserta 2do Valor</string>
+    <string name="hlnum1"> Aqui el 1er Numero</string>
+    <string name="hlnum2"> Aqui el 2do Numero</string>
+    <string name="acciones">Acciones a Realizar</string>
+    <string name="BTsumar">SUMAR</string>
+    <string name="BTrestar">RESTAR</string>
+    <string name="BTdividir">DIVIDIR</string>
+    <string name="BTmulti">MULTIPLICAR</string>
+    <string name="BTDOS">POTENCIA 2</string>
+    <string name="BTAN">POTENCIA N</string>
+    <string name="BTRAIZ">RAIZ CUADRADA</string>
+    <string name="MostRSL">RESULTADO</string>
+
+
+</resources>
